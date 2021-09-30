@@ -1,2 +1,1 @@
-I'm super excited to make my very first project: Recipes!
-For this project I will be executing my HTML skills. :)
+Showcasing recipes created with HTML that saved my life during the pandemic
